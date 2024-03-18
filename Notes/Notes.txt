@@ -1,0 +1,20 @@
+How to set the environment Variable
+
+flask --app main --debug run
+<meta charset="UTF-8"
+
+url_for('static', filename='main.css')
+
+
+
+"""
+trying to figure out how to have it create the database.  the site1.db was self created
+also learn / write down the python from main import db commands.  db.create_all() , db.session.commit() ...
+
+import secrets
+secrets.token_hex(16)
+make an environment variable or add to db?
+
+updated layout 2 and got rid of the blocks.. works now...  cleanup and merge to only have layout as main base
+
+"""
