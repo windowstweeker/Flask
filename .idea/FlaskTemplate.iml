@@ -4,8 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.venv" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/project_name/static" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/project_name/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FlaskProject/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FlaskProject/templates" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -16,7 +16,8 @@
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/project_name/templates" />
+        <option value="$MODULE_DIR$/FlaskProject/templates" />
+        <option value="$MODULE_DIR$/FlaskProject/templates/errors" />
       </list>
     </option>
   </component>
